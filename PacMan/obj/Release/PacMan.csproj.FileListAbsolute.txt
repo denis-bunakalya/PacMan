@@ -1,0 +1,8 @@
+D:\mercurial\PacMan\PacMan\bin\Release\PacMan.exe.config
+D:\mercurial\PacMan\PacMan\bin\Release\PacMan.exe
+D:\mercurial\PacMan\PacMan\bin\Release\PacMan.pdb
+D:\mercurial\PacMan\PacMan\obj\Release\PacMan.g.resources
+D:\mercurial\PacMan\PacMan\obj\Release\PacMan.Properties.Resources.resources
+D:\mercurial\PacMan\PacMan\obj\Release\PacMan.csproj.GenerateResource.Cache
+D:\mercurial\PacMan\PacMan\obj\Release\PacMan.exe
+D:\mercurial\PacMan\PacMan\obj\Release\PacMan.pdb

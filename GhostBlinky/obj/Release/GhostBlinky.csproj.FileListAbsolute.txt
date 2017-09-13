@@ -1,0 +1,5 @@
+D:\mercurial\PacMan\PacMan\bin\Release\GhostBlinky.dll
+D:\mercurial\PacMan\PacMan\bin\Release\GhostBlinky.pdb
+D:\mercurial\PacMan\GhostBlinky\obj\Release\GhostBlinky.csprojResolveAssemblyReference.cache
+D:\mercurial\PacMan\GhostBlinky\obj\Release\GhostBlinky.dll
+D:\mercurial\PacMan\GhostBlinky\obj\Release\GhostBlinky.pdb

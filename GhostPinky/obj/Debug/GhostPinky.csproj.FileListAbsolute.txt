@@ -1,0 +1,4 @@
+D:\mercurial\PacMan\PacMan\bin\Debug\GhostPinky.dll
+D:\mercurial\PacMan\PacMan\bin\Debug\GhostPinky.pdb
+D:\mercurial\PacMan\GhostPinky\obj\Debug\GhostPinky.dll
+D:\mercurial\PacMan\GhostPinky\obj\Debug\GhostPinky.pdb

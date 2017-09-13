@@ -1,0 +1,4 @@
+D:\mercurial\PacMan\PacMan\bin\Release\GhostClyde.dll
+D:\mercurial\PacMan\PacMan\bin\Release\GhostClyde.pdb
+D:\mercurial\PacMan\GhostClyde\obj\Release\GhostClyde.dll
+D:\mercurial\PacMan\GhostClyde\obj\Release\GhostClyde.pdb
